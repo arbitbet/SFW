@@ -1,0 +1,4 @@
+SFW
+===
+
+Scrapers framework
